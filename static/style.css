@@ -8,6 +8,11 @@
     justify-content: flex-end;
     display: flex;
     flex-direction: row;
+    text-decoration: none;
+    color: white;
+    padding: 0 15px;
+    top: 0px;
+    
     
 }
 
