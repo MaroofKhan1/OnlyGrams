@@ -1,0 +1,13 @@
+.nav-container {
+   background-color: lightpink; 
+   display: flex;
+   margin: 0;
+   
+}
+
+.nav-links {
+    justify-content: flex-end;
+    display: flex;
+    
+}
+
